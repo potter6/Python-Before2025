@@ -11,8 +11,8 @@ import time
 if __name__ == "__main__":
     ########################### 自己设置区 ###############################
     emailhost = "smtp.qq.com"
-    emailname = "473161189@qq.com"
-    emailpassword = "hspxxpupkwowbggg"  # 授权码 需要到邮箱的设置里面 开启授权
+    emailname = "XXXXXXXXX@qq.com"
+    emailpassword = "XXXXXXXXXXXX"  # 授权码 需要到邮箱的设置里面 开启授权
     #####################################################################
 
     # 发送者的邮箱名和授权码以及host
