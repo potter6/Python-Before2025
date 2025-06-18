@@ -1,0 +1,3 @@
+pip install yagmail pandas sqlite3 csv openpyxl csv json bs4 -i https://pypi.tuna.tsinghua.edu.cn/simple/ --trusted-host pypi.tuna.tsinghua.edu.cn 
+
+注：碰到sqlite无法连接的情况，备份shanghaipidbuy，删除至报错的位置及前面的行，继续爬即可
